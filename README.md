@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eraldkerciku
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning @Ironhack in a Cybersecurity Bootcamp
+- 🌱 I’m currently learning @ThriveDX in a Cybersecurity Bootcamp
 - 💞️ I’m looking to collaborate on CyberSecurity projects as a Junior SOC Analyst Tier 1
 - 📫 How to reach me : Send me a Linkedin Message
 
